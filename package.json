@@ -1,0 +1,17 @@
+{
+  "name": "calculatordemo",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "-": "^0.0.1"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
